@@ -12,3 +12,4 @@ def fizzbuzz(num)
   end
 end
 # (1..20).each {|num| puts "#{num} --> #{fizzbuzz(num)}"}
+
